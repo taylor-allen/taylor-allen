@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
 
+- 🔭 I’m currently working on [Thynk Unlimited Gym](https://github.com/4GeeksAcademy/Thynk-Unlimited-Gym-Main)
+
 - 🌱 I’m currently learning **Azure Cloud Computing**
 
 - 📫 How to reach me **twhitallen07@gmail.com**
