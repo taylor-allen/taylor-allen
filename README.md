@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Taylor Allen</h1>
 <h3 align="center">An enthusiastic full-stack developer from Alabama, US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylor-allen&label=Profile%20views&color=0e75b6&style=flat" alt="taylor-allen" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=taylor-allen&label=Profile%20views&color=0e75b6&style=flat" alt="taylor-allen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
 
-- 🔭 I’m currently working on [Thynk Unlimited Gym](https://github.com/4GeeksAcademy/Thynk-Unlimited-Gym-Main)
+- 🔭 I’m currently working on <a href="https://thynk-unlimited-gym-4geeks.onrender.com/">Thynk Unlimited Gym </a>
 
 - 🌱 I’m currently learning **Azure Cloud Computing**
 
-- 📫 How to reach me **twhitallen07@gmail.com**
+- 📫 How to reach me best is at <a href="https://www.taylorthedev.com/">https://www.taylorthedev.com/</a>
 
 - ⚡ Fun fact **In addition to learning programming languages, I'm also learning Spanish and Korean.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
 <a href="https://codepen.io/taylor-allen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="taylor-allen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taylorintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taylorintech" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22216351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22216351" height="30" width="40" /></a>
