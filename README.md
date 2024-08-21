@@ -5,13 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://thynk-unlimited-gym-4geeks.onrender.com/">Thynk Unlimited Gym </a>
-
-- 🌱 I’m currently learning **Azure Cloud Computing**
+- 🌱 I’m currently working on my **Azure AI Engineer Associate Certification**
 
 - 📫 How to reach me best is at <a href="https://www.taylorthedev.com/">https://www.taylorthedev.com/</a>
 
-- ⚡ Fun fact **In addition to learning programming languages, I'm also learning Spanish and Korean.**
+- ⚡ Fun fact **In addition to learning programming languages, I also study Spanish and Korean.**
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
