@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on my **Azure AI Engineer Associate Certification**
 
-- 📫 How to reach me best is at <a href="https://www.taylorthedev.com/">https://www.taylorthedev.com/</a>
+- 📫 The best way to reach me is via <a href="https://www.taylorthedev.com/">https://www.taylorthedev.com/</a>
 
 - ⚡ Fun fact **In addition to learning programming languages, I also study Spanish and Korean.**
 
