@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taylor Allen</h1>
-<h3 align="center">An enthusiastic full-stack developer from Alabama, US</h3>
+<h3 align="center">An ambitious full-stack software engineer from southern Alabama passionate about creating scalable, user-friendly software and driven to make a significant impact in the digital world one line of code at a time.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taylor-allen&label=Profile%20views&color=0e75b6&style=flat" alt="taylor-allen" /> </p>
 
