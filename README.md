@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
 
-- 🌱 I’m currently working on my **Azure AI Engineer Associate Certification**
+- 🌱 I’m currently working on enhancing my portfolio by building more full-stack applications. 
 
 - 📫 Contact me <a href="https://www.taylorthedev.com/how-to-reach-me">here.</a>
 
