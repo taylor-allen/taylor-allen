@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Taylor Allen</h1>
-<h3 align="center">An ambitious full-stack software engineer from southern Alabama passionate about creating scalable, user-friendly software and driven to make a significant impact in the digital world one line of code at a time.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taylor-allen&label=Profile%20views&color=0e75b6&style=flat" alt="taylor-allen" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
 
-- 🌱 I’m currently working on enhancing my portfolio by building more full-stack applications. 
 
-- 📫 Contact me <a href="https://www.taylorthedev.com/how-to-reach-me">here.</a>
+I'm a full-stack engineer with a background in software implementation and a focus on building user-friendly, scalable applications. I enjoy working across the stack and bringing ideas to life—from early concepts to deployed solutions. I’m especially interested in tools and platforms that empower communities, improve accessibility, or make everyday processes more efficient.
 
-- ⚡ Fun fact **In addition to learning programming languages, I also study Spanish and Korean.**
+- 🌱 Currently building out new full-stack projects to sharpen my skills and expand my portfolio.
+- 📫 You can reach me [here](https://www.taylorthedev.com/how-to-reach-me).
+- 🌍 With any free time I may encounter, I’m learning Spanish and Korean—always curious about languages, both human and computer.
+
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-<a href="https://codepen.io/taylor-allen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="taylor-allen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taylorintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taylorintech" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22216351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22216351" height="30" width="40" /></a>
 <a href="https://instagram.com/tay_luree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tay_luree" height="30" width="40" /></a>
