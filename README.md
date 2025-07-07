@@ -5,11 +5,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taylor-allen" alt="taylor-allen" /></a> </p>
 
 
-I'm a full-stack engineer with a background in software implementation and a focus on building user-friendly, scalable applications. I enjoy working across the stack and bringing ideas to life—from early concepts to deployed solutions. I’m especially interested in tools and platforms that empower communities, improve accessibility, or make everyday processes more efficient.
+I'm a full-stack engineer with a background in software implementation and a focus on building user-friendly, scalable applications. I enjoy working across the stack and bringing ideas to life from early concepts to deployed solutions. I’m especially interested in tools and platforms that empower communities, improve accessibility, or make everyday processes more efficient.
 
 - 🌱 Currently building out new full-stack projects to sharpen my skills and expand my portfolio.
 - 📫 You can reach me [here](https://www.taylorthedev.com/how-to-reach-me).
-- 🌍 With any free time I may encounter, I’m learning Spanish and Korean—always curious about languages, both human and computer.
+- 🌍 With any free time I may encounter, I’m learning Spanish and Korean because I've always been curious about languages, both human and computer.
 
 
 <h3 align="center">Connect with Me:</h3>
